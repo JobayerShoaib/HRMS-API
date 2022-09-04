@@ -1,0 +1,12 @@
+E:\HRM Project\HRM\Domain\bin\Release\net6.0\Domain.deps.json
+E:\HRM Project\HRM\Domain\bin\Release\net6.0\Domain.dll
+E:\HRM Project\HRM\Domain\bin\Release\net6.0\ref\Domain.dll
+E:\HRM Project\HRM\Domain\bin\Release\net6.0\Domain.pdb
+E:\HRM Project\HRM\Domain\obj\Release\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HRM Project\HRM\Domain\obj\Release\net6.0\Domain.AssemblyInfoInputs.cache
+E:\HRM Project\HRM\Domain\obj\Release\net6.0\Domain.AssemblyInfo.cs
+E:\HRM Project\HRM\Domain\obj\Release\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\HRM Project\HRM\Domain\obj\Release\net6.0\Domain.dll
+E:\HRM Project\HRM\Domain\obj\Release\net6.0\ref\Domain.dll
+E:\HRM Project\HRM\Domain\obj\Release\net6.0\Domain.pdb
+E:\HRM Project\HRM\Domain\obj\Release\net6.0\Domain.csproj.AssemblyReference.cache

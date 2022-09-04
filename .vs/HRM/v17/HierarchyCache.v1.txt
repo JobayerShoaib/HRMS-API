@@ -1,0 +1,628 @@
+﻿++Solution 'HRM' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:HRM.sln
+++Source
+i:{00000000-0000-0000-0000-000000000000}:Source
+++WebApi
+i:{3060ba38-eb2c-4ce6-8ad7-b08542da4eb2}:WebApi
+++HRM.Api
+i:{fa0e0241-068d-42fa-866d-8645fd127141}:HRM.Api
+++Connected Services 
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:>1388
+++Dependencies
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:>1387
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:>1117
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:>1115
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:>1116
+++Properties
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\properties\
+++Controllers
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\
+++v1
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\
+++Identity
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\identity\
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\identity\
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\identity\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\identity\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\identity\
+++Setup
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\setup\
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\setup\
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\setup\
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\setup\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\setup\
+++CompaniesController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\setup\companiescontroller.cs
+++CompanyTypesController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\setup\companytypescontroller.cs
+++CountriesController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\setup\countriescontroller.cs
+++DepartmentsController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\setup\departmentscontroller.cs
+++DistrictsController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\setup\districtscontroller.cs
+++DivisionsController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\setup\divisionscontroller.cs
+++OfficeDivisionsController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\setup\officedivisionscontroller.cs
+++OfficeLevelsController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\setup\officelevelscontroller.cs
+++SectionsController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\setup\sectionscontroller.cs
+++BaseApiController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\baseapicontroller.cs
+++Extensions
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\extensions\
+++Services
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\services\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\
+++appsettings.json
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\appsettings.json
+++GlobalUsings.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\globalusings.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\globalusings.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\globalusings.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\globalusings.cs
+++Program.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\program.cs
+++Startup.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\startup.cs
+++No service dependencies discovered
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:>1389
+++Analyzers
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:analyzers
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:analyzers
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:analyzers
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:analyzers
+++Frameworks
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:frameworks
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:frameworks
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:frameworks
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:frameworks
+++Packages
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:packages
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:packages
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:packages
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:packages
+++Projects
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:projects
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:projects
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:projects
+++launchSettings.json
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\properties\launchsettings.json
+++AccountController.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\controllers\v1\identity\accountcontroller.cs
+++ServiceExtensions.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\extensions\serviceextensions.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\serviceextensions.cs
+++Common
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\services\common\
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\common\
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\common\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\common\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\common\
+++appsettings.Development.json
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\users\jobayer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:c:\users\jobayer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:c:\users\jobayer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:c:\users\jobayer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:c:\users\jobayer\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\microsoft.netcore.app
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\microsoft.netcore.app
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\microsoft.netcore.app
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\microsoft.netcore.app
+++FluentValidation.AspNetCore (10.3.6)
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:>1436
+++Microsoft.AspNetCore.Mvc.Versioning (5.0.0)
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:>1434
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:>1438
+++Swashbuckle.AspNetCore (6.2.3)
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:>1435
+++Swashbuckle.AspNetCore.Swagger (6.2.3)
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:>1437
+++Swashbuckle.AspNetCore.SwaggerUI (6.2.3)
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:>1439
+++Infrastructure
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\infrastructure\bin\debug\net6.0\infrastructure.dll
+i:{6252052e-4dfc-4f5e-a292-f2a9087d14fd}:Infrastructure
+++CurrentUserService.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\services\common\currentuserservice.cs
+++DateTimeService.cs
+i:{6d60211a-49dc-465e-9d78-17779ce3d8f6}:e:\hrm project\hrm\hrm.api\services\common\datetimeservice.cs
+++Core
+i:{3060ba38-eb2c-4ce6-8ad7-b08542da4eb2}:Core
+++Domain
+i:{6252052e-4dfc-4f5e-a292-f2a9087d14fd}:Domain
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\domain\domain.csproj
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\domain\domain.csproj
+++Entities
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\
+++AuditableEntity.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\common\auditableentity.cs
+++AuditEntry.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\common\auditentry.cs
+++AuditSecrets.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\common\auditsecrets.cs
+++AuditTrails.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\common\audittrails.cs
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:>1451
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:>1397
+++Newtonsoft.Json (13.0.1)
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:>1452
+++CompanyInfo.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\companyinfo.cs
+++CompanyType.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\companytype.cs
+++Country.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\country.cs
+++Department.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\department.cs
+++Designation.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\designation.cs
+++District.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\district.cs
+++Division.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\division.cs
+++Office.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\office.cs
+++OfficeDivision.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\officedivision.cs
+++OfficeLevel.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\officelevel.cs
+++Section.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\section.cs
+++Thana.cs
+i:{94e60ee3-da6d-4e46-84cb-95239d653bc9}:e:\hrm project\hrm\domain\entities\setup\thana.cs
+++ImpRepositories
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\
+++GenericRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\common\genericrepository.cs
+++AccountRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\identity\accountrepository.cs
+++CompanyInfoRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\setup\companyinforepository.cs
+++CompanyTypeRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\setup\companytyperepository.cs
+++CountryRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\setup\countryrepository.cs
+++DepartmentRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\setup\departmentrepository.cs
+++DistrictRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\setup\districtrepository.cs
+++DivisionRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\setup\divisionrepository.cs
+++OfficeDivisionRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\setup\officedivisionrepository.cs
+++OfficeLevelRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\setup\officelevelrepository.cs
+++SectionRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\setup\sectionrepository.cs
+++ImpServices
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\
+++AccountService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\identity\accountservice.cs
+++CompanyInfoService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\setup\companyinfoservice.cs
+++CompanyTypeService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\setup\companytypeservice.cs
+++CountryService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\setup\countryservice.cs
+++DepartmentService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\setup\departmentservice.cs
+++DistrictService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\setup\districtservice.cs
+++DivisionService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\setup\divisionservice.cs
+++OfficeDivisionService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\setup\officedivisionservice.cs
+++OfficeLevelService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\setup\officelevelservice.cs
+++SectionService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\setup\sectionservice.cs
+++Migrations
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\migrations\
+++Models
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\models\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\models\
+++Persistence
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\
+++Configurations
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\
+++AuditableContext.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\auditablecontext.cs
+++AuditableContextSeed.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\auditablecontextseed.cs
+++HRMDbContext.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\hrmdbcontext.cs
+++DependencyInjection.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\dependencyinjection.cs
+++20220122062933_Initial.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\migrations\20220122062933_initial.cs
+++HRMDbContextModelSnapshot.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\migrations\hrmdbcontextmodelsnapshot.cs
+++Audit
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\models\audit\
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.1)
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:>1412
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.1)
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:>1413
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:>1411
+++Application
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\application\application.csproj
+i:{6252052e-4dfc-4f5e-a292-f2a9087d14fd}:Application
+++20220122062933_Initial.Designer.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\migrations\20220122062933_initial.designer.cs
+++CompanyInfoConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\companyinfoconfig.cs
+++CompanyTypeConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\companytypeconfig.cs
+++CountryConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\countryconfig.cs
+++DepartmentConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\departmentconfig.cs
+++DesignationConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\designationconfig.cs
+++DistrictConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\districtconfig.cs
+++DivisionConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\divisionconfig.cs
+++OfficeConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\officeconfig.cs
+++OfficeDivisionConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\officedivisionconfig.cs
+++OfficeLevelConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\officelevelconfig.cs
+++SectionConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\sectionconfig.cs
+++ThanaConfig.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\persistence\configurations\setup\thanaconfig.cs
+++AppEnums
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\appenums\
+++Behaviours
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\behaviours\
+++Exceptions
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\exceptions\
+++Mappings
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\mappings\
+++Features
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\
+++Businesses
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\businesses\
+++Identities
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\
+++Accounts
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\accounts\
+++Commands
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\accounts\commands\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\commands\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\commands\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\commands\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\commands\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\commands\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\commands\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\commands\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\commands\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\commands\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\auditsecrets\commands\
+++Create
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\accounts\commands\create\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\commands\create\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\commands\create\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\commands\create\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\commands\create\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\commands\create\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\commands\create\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\commands\create\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\commands\create\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\commands\create\
+++SignUpCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\accounts\commands\create\signupcommand.cs
+++DTM
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\accounts\commands\dtm\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\commands\dtm\
+++Update
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\accounts\commands\update\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\commands\update\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\commands\update\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\commands\update\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\commands\update\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\commands\update\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\commands\update\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\commands\update\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\commands\update\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\commands\update\
+++Queries
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\accounts\queries\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\queries\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\queries\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\queries\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\queries\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\queries\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\queries\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\queries\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\queries\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\queries\
+++QRM
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\accounts\queries\qrm\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\queries\qrm\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\queries\qrm\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\queries\qrm\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\queries\qrm\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\queries\qrm\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\queries\qrm\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\queries\qrm\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\queries\qrm\
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\queries\qrm\
+++Setups
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\
+++IdentityEntities
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\identityentities\
+++Repositories
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\
+++IAccountService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\identity\iaccountservice.cs
+++EnumAuditType.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\appenums\enumaudittype.cs
+++ValidationBehavior.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\behaviours\validationbehavior.cs
+++ValidationException.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\exceptions\validationexception.cs
+++IMapFrom.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\mappings\imapfrom.cs
+++MappingExtensions.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\mappings\mappingextensions.cs
+++MappingProfile.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\mappings\mappingprofile.cs
+++PaginatedList.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\models\paginatedlist.cs
+++Result.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\common\models\result.cs
+++SignUpDTM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\accounts\commands\dtm\signupdtm.cs
+++CompanyInfos
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\
+++CompanyTypes
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\
+++Countries
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\
+++Departments
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\
+++Districts
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\
+++Divisions
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\
+++OfficeDivisions
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\
+++OfficeLevels
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\
+++Sections
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\
+++ApplicationRole.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\identityentities\applicationrole.cs
+++ApplicationRoleClaim.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\identityentities\applicationroleclaim.cs
+++ApplicationUser.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\identityentities\applicationuser.cs
+++ApplicationUserClaim.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\identityentities\applicationuserclaim.cs
+++ApplicationUserLogin.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\identityentities\applicationuserlogin.cs
+++ApplicationUserRole.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\identityentities\applicationuserrole.cs
+++ApplicationUserToken.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\identityentities\applicationusertoken.cs
+++IHRMDbContext.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\ihrmdbcontext.cs
+++ICurrentUserService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\common\icurrentuserservice.cs
+++IDateTimeService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\common\idatetimeservice.cs
+++ICompanyInfoService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\setup\icompanyinfoservice.cs
+++ICompanyTypeService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\setup\icompanytypeservice.cs
+++ICountryService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\setup\icountryservice.cs
+++IDepartmentService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\setup\idepartmentservice.cs
+++IDistrictService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\setup\idistrictservice.cs
+++IDivisionService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\setup\idivisionservice.cs
+++IOfficeDivisionService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\setup\iofficedivisionservice.cs
+++IOfficeLevelService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\setup\iofficelevelservice.cs
+++ISectionService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\setup\isectionservice.cs
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:>1398
+++FluentValidation.DependencyInjectionExtensions (10.3.6)
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:>1396
+++MediatR.Extensions.Microsoft.DependencyInjection (9.0.0)
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:>1402
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.1)
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:>1399
+++NetCore.AutoRegisterDi (2.1.0)
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:>1400
+++System.Linq.Dynamic.Core (1.2.15)
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:>1401
+++IGenericRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\common\igenericrepository.cs
+++IAccountRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\identity\iaccountrepository.cs
+++ICompanyInfoRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\setup\icompanyinforepository.cs
+++ICompanyTypeRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\setup\icompanytyperepository.cs
+++ICountryRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\setup\icountryrepository.cs
+++IDepartmentRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\setup\idepartmentrepository.cs
+++IDistrictRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\setup\idistrictrepository.cs
+++IDivisionRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\setup\idivisionrepository.cs
+++IOfficeDivisionRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\setup\iofficedivisionrepository.cs
+++IOfficeLevelRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\setup\iofficelevelrepository.cs
+++ISectionRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\setup\isectionrepository.cs
+++CompanyInfoGetDataListQuery.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\queries\companyinfogetdatalistquery.cs
+++CompanyTypeGetDataListQuery.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\queries\companytypegetdatalistquery.cs
+++CountryGetDataListQuery.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\queries\countrygetdatalistquery.cs
+++DepartmentGetDataListQuery.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\queries\departmentgetdatalistquery.cs
+++DistrictGetDataListQuery.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\queries\districtgetdatalistquery.cs
+++DivisionGetDataListQuery.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\queries\divisiongetdatalistquery.cs
+++OfficeDivisionGetDataListQuery.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\queries\officedivisiongetdatalistquery.cs
+++OfficeLevelGetDataListQuery.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\queries\officelevelgetdatalistquery.cs
+++SectionGetDataListQuery.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\queries\sectiongetdatalistquery.cs
+++CompanyInfoCreateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\commands\create\companyinfocreatecommand.cs
+++CompanyInfoCreateDTM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\commands\dtm\companyinfocreatedtm.cs
+++CompanyInfoUpdateDTM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\commands\dtm\companyinfoupdatedtm.cs
+++CompanyInfoDeleteCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\commands\update\companyinfodeletecommand.cs
+++CompanyInfoUpdateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\commands\update\companyinfoupdatecommand.cs
+++CompanyInfoGetDataListRM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companyinfos\queries\qrm\companyinfogetdatalistrm.cs
+++CompanyTypeCreateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\commands\create\companytypecreatecommand.cs
+++CompanyTypeDeleteCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\commands\update\companytypedeletecommand.cs
+++CompanyTypeUpdateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\commands\update\companytypeupdatecommand.cs
+++CompanyTypeGetDataListRM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\companytypes\queries\qrm\companytypegetdatalistrm.cs
+++CountryCreateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\commands\create\countrycreatecommand.cs
+++CountryCreateCommandValidator.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\commands\create\countrycreatecommandvalidator.cs
+++CountryDeleteCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\commands\update\countrydeletecommand.cs
+++CountryUpdateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\commands\update\countryupdatecommand.cs
+++CountryGetDataListRM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\countries\queries\qrm\countrygetdatalistrm.cs
+++DepartmentCreateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\commands\create\departmentcreatecommand.cs
+++DepartmentDeleteCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\commands\update\departmentdeletecommand.cs
+++DepartmentUpdateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\commands\update\departmentupdatecommand.cs
+++DepartmentGetDataListRM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\departments\queries\qrm\departmentgetdatalistrm.cs
+++DistrictCreateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\commands\create\districtcreatecommand.cs
+++DistrictDeleteCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\commands\update\districtdeletecommand.cs
+++DistrictUpdateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\commands\update\districtupdatecommand.cs
+++DistrictGetDataListRM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\districts\queries\qrm\districtgetdatalistrm.cs
+++DivisionCreateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\commands\create\divisioncreatecommand.cs
+++DivisionDeleteCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\commands\update\divisiondeletecommand.cs
+++DivisionUpdateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\commands\update\divisionupdatecommand.cs
+++DivisionGetDataListRM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\divisions\queries\qrm\divisiongetdatalistrm.cs
+++OfficeDivisionCreateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\commands\create\officedivisioncreatecommand.cs
+++OfficeDivisionDeleteCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\commands\update\officedivisiondeletecommand.cs
+++OfficeDivisionUpdateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\commands\update\officedivisionupdatecommand.cs
+++OfficeDivisionGetDataListRM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officedivisions\queries\qrm\officedivisiongetdatalistrm.cs
+++OfficeLevelCreateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\commands\create\officelevelcreatecommand.cs
+++OfficeLevelDeleteCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\commands\update\officeleveldeletecommand.cs
+++OfficeLevelUpdateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\commands\update\officelevelupdatecommand.cs
+++OfficeLevelGetDataListRM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\officelevels\queries\qrm\officelevelgetdatalistrm.cs
+++SectionCreateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\commands\create\sectioncreatecommand.cs
+++SectionDeleteCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\commands\update\sectiondeletecommand.cs
+++SectionUpdateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\commands\update\sectionupdatecommand.cs
+++SectionGetDataListRM.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\setups\sections\queries\qrm\sectiongetdatalistrm.cs
+++IAuditSecretsRepository.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\repositories\identity\iauditsecretsrepository.cs
+++AuditSecretsRepository.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\imprepositories\identity\auditsecretsrepository.cs
+++IAuditSecretsService.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\services\identity\iauditsecretsservice.cs
+++NewFolder
+++AuditSecrets
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\auditsecrets\
+++AuditSecretsCreateCommand.cs
+i:{30969e74-f3da-45e8-95af-068ed1a138af}:e:\hrm project\hrm\application\features\identities\auditsecrets\commands\auditsecretscreatecommand.cs
+++AuditSecretsService.cs
+i:{5d28808a-b734-4cfe-b3ec-039a382f2d54}:e:\hrm project\hrm\infrastructure\impservices\identity\auditsecretsservice.cs

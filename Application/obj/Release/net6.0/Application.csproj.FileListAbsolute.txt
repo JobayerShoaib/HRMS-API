@@ -1,0 +1,15 @@
+E:\HRM Project\HRM\Application\bin\Release\net6.0\Application.deps.json
+E:\HRM Project\HRM\Application\bin\Release\net6.0\Application.dll
+E:\HRM Project\HRM\Application\bin\Release\net6.0\ref\Application.dll
+E:\HRM Project\HRM\Application\bin\Release\net6.0\Application.pdb
+E:\HRM Project\HRM\Application\bin\Release\net6.0\Domain.dll
+E:\HRM Project\HRM\Application\bin\Release\net6.0\Domain.pdb
+E:\HRM Project\HRM\Application\obj\Release\net6.0\Application.csproj.AssemblyReference.cache
+E:\HRM Project\HRM\Application\obj\Release\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\HRM Project\HRM\Application\obj\Release\net6.0\Application.AssemblyInfoInputs.cache
+E:\HRM Project\HRM\Application\obj\Release\net6.0\Application.AssemblyInfo.cs
+E:\HRM Project\HRM\Application\obj\Release\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\HRM Project\HRM\Application\obj\Release\net6.0\Application.csproj.CopyComplete
+E:\HRM Project\HRM\Application\obj\Release\net6.0\Application.dll
+E:\HRM Project\HRM\Application\obj\Release\net6.0\ref\Application.dll
+E:\HRM Project\HRM\Application\obj\Release\net6.0\Application.pdb

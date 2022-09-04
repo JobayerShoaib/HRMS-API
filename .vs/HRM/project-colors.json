@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30969e74-f3da-45e8-95af-068ed1a138af": {
+      "ProjectGuid": "30969e74-f3da-45e8-95af-068ed1a138af",
+      "DisplayName": "Application",
+      "ColorIndex": 0
+    },
+    "94e60ee3-da6d-4e46-84cb-95239d653bc9": {
+      "ProjectGuid": "94e60ee3-da6d-4e46-84cb-95239d653bc9",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "5d28808a-b734-4cfe-b3ec-039a382f2d54": {
+      "ProjectGuid": "5d28808a-b734-4cfe-b3ec-039a382f2d54",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    },
+    "6d60211a-49dc-465e-9d78-17779ce3d8f6": {
+      "ProjectGuid": "6d60211a-49dc-465e-9d78-17779ce3d8f6",
+      "DisplayName": "HRM.Api",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
