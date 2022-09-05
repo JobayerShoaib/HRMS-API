@@ -6,6 +6,7 @@ namespace Application.Features.Setups.Divisions.Queries
 {
     public class DivisionGetDataListQuery : IRequest<IList<DivisionGetDataListRM>>
     {
+        public int CountryID { get; set; }
     }
     public class DivisionGetDataListQueryHandler : IRequestHandler<DivisionGetDataListQuery, IList<DivisionGetDataListRM>>
     {
@@ -17,7 +18,7 @@ namespace Application.Features.Setups.Divisions.Queries
         }
         public async Task<IList<DivisionGetDataListRM>> Handle(DivisionGetDataListQuery request, CancellationToken cancellationToken)
         {
-            return await _divisionService.GetDataList(cancellationToken);
+            return await _divisionService.GetDataList(request.CountryID, cancellationToken);
         }
     }
 }

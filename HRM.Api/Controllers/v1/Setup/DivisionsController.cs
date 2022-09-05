@@ -12,9 +12,10 @@ namespace HRM.Api.Controllers.v1.Setup
     public class DivisionsController : BaseApiController
     {
         [HttpGet]
-        public async Task<ActionResult<IList<DivisionGetDataListRM>>> GetDataList()
+        [Route("{countryId}")]
+        public async Task<ActionResult<IList<DivisionGetDataListRM>>> GetDataList([FromRoute] int countryId)
         {
-            var result = await Mediator.Send(new DivisionGetDataListQuery { });
+            var result = await Mediator.Send(new DivisionGetDataListQuery {CountryID=countryId });
             return Ok(result);
         }
         [HttpPost]

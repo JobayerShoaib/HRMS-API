@@ -12,11 +12,12 @@ namespace Infrastructure.ImpRepositories.Setup
             _dbCon = dbCon;
         }
 
-        public async Task<IList<DivisionGetDataListRM>> GetDataList(CancellationToken cancellationToken)
+        public async Task<IList<DivisionGetDataListRM>> GetDataList(int countryID=0,CancellationToken cancellationToken=default)
         {
             var data = await (from d in _dbCon.Division
                               join c in _dbCon.Country on d.CountryID equals c.CountryID
                               where d.IsActive == true && d.IsDeleted == false
+                              && countryID==0|| d.CountryID==countryID
                               select new DivisionGetDataListRM
                               {
                                   CountryID = c.CountryID,

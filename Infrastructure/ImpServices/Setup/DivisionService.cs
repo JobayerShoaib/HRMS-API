@@ -45,9 +45,9 @@ namespace Infrastructure.ImpServices.Setup
             return result.Update("Deleted Successfully");
         }
 
-        public async Task<IList<DivisionGetDataListRM>> GetDataList(CancellationToken cancellationToken = default)
+        public async Task<IList<DivisionGetDataListRM>> GetDataList(int countryID =0,CancellationToken cancellationToken = default)
         {
-            return await _divisionRepository.GetDataList(cancellationToken);
+            return await _divisionRepository.GetDataList(countryID, cancellationToken);
         }
 
         public async Task<Result> Update(DivisionUpdateCommand model, bool saveChanges = true, CancellationToken cancellationToken = default)

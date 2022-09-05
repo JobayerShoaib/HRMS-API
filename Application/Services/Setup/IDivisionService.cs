@@ -10,6 +10,6 @@ namespace Application.Services.Setup
         Task<Result> Create(DivisionCreateCommand model, bool saveChanges = true, CancellationToken cancellationToken = default);
         Task<Result> Update(DivisionUpdateCommand model, bool saveChanges = true, CancellationToken cancellationToken = default);
         Task<Result> Delete(int id, bool saveChanges = true, CancellationToken cancellationToken = default);
-        Task<IList<DivisionGetDataListRM>> GetDataList(CancellationToken cancellationToken = default);
+        Task<IList<DivisionGetDataListRM>> GetDataList(int countryID =0,CancellationToken cancellationToken = default);
     }
 }
