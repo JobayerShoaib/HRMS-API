@@ -23,16 +23,25 @@ namespace Infrastructure.ImpServices.Setup
         }
         public async Task<Result> Create(DivisionCreateCommand model, bool saveChanges = true, CancellationToken cancellationToken = default)
         {
-            Result result = new();
-            Division entity = new()
+            try
             {
-                DivisionName = model.DivisionName,
-                DivisionNameUC = model.DivisionNameUC,
-                CountryID = model.CountryID,
-                IsActive = model.IsActive
-            };
-            await _divisionRepository.InsertAsync(entity, saveChanges, cancellationToken);
-            return result.Success();
+                Result result = new();
+                Division entity = new()
+                {
+                    DivisionName = model.DivisionName,
+                    DivisionNameUC = model.DivisionNameUC,
+                    CountryID = model.CountryID,
+                    IsActive = model.IsActive
+                };
+                await _divisionRepository.InsertAsync(entity, saveChanges, cancellationToken);
+                return result.Success();
+            }
+            catch (Exception e)
+            {
+
+                throw;
+            }
+           
         }
 
         public async Task<Result> Delete(int id, bool saveChanges = true, CancellationToken cancellationToken = default)

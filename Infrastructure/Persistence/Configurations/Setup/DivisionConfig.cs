@@ -8,7 +8,7 @@ namespace Infrastructure.Persistence.Configurations.Setup
     {
         public void Configure(EntityTypeBuilder<Division> builder)
         {
-            builder.HasKey(b => b.CountryID);
+            builder.HasKey(b => b.DivisionID);
             builder.ToTable("Division", "setup");
         }
     }
