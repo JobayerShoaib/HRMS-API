@@ -32,3 +32,20 @@ C:\Users\Robintex\Downloads\New folder\HRMS-API\Infrastructure\obj\Debug\net6.0\
 C:\Users\Robintex\Downloads\New folder\HRMS-API\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
 C:\Users\Robintex\Downloads\New folder\HRMS-API\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 C:\Users\Robintex\Downloads\New folder\HRMS-API\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\bin\Debug\net6.0\Application.dll
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\bin\Debug\net6.0\Application.pdb
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

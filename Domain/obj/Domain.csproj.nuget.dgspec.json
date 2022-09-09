@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robintex\\Downloads\\New folder\\HRMS-API\\Domain\\Domain.csproj": {}
+    "C:\\Users\\walid\\OneDrive\\Desktop\\NextjsNew\\HRMS-API\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robintex\\Downloads\\New folder\\HRMS-API\\Domain\\Domain.csproj": {
+    "C:\\Users\\walid\\OneDrive\\Desktop\\NextjsNew\\HRMS-API\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robintex\\Downloads\\New folder\\HRMS-API\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\walid\\OneDrive\\Desktop\\NextjsNew\\HRMS-API\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Robintex\\Downloads\\New folder\\HRMS-API\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Robintex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robintex\\Downloads\\New folder\\HRMS-API\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\walid\\OneDrive\\Desktop\\NextjsNew\\HRMS-API\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\walid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\walid\\OneDrive\\Desktop\\NextjsNew\\HRMS-API\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Robintex\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\walid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
