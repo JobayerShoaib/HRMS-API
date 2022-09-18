@@ -33,3 +33,4 @@ C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Domain\obj\Debug\net6.0\Domai
 C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\HRM Project\HRM\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache

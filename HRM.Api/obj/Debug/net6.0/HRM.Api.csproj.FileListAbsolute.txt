@@ -256,3 +256,4 @@ C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\HRM.Api\obj\Debug\net6.0\refi
 C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\HRM.Api\obj\Debug\net6.0\HRM.Api.pdb
 C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\HRM.Api\obj\Debug\net6.0\HRM.Api.genruntimeconfig.cache
 C:\Users\walid\OneDrive\Desktop\NextjsNew\HRMS-API\HRM.Api\obj\Debug\net6.0\ref\HRM.Api.dll
+E:\HRM Project\HRM\HRM.Api\bin\Debug\net6.0\MediatR.Contracts.dll

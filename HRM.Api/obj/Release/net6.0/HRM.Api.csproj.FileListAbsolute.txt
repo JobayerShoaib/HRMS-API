@@ -84,3 +84,4 @@ E:\HRM Project\HRM\HRM.Api\obj\Release\net6.0\HRM.Api.dll
 E:\HRM Project\HRM\HRM.Api\obj\Release\net6.0\ref\HRM.Api.dll
 E:\HRM Project\HRM\HRM.Api\obj\Release\net6.0\HRM.Api.pdb
 E:\HRM Project\HRM\HRM.Api\obj\Release\net6.0\HRM.Api.genruntimeconfig.cache
+E:\HRM Project\HRM\HRM.Api\bin\Release\net6.0\MediatR.Contracts.dll
